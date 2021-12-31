@@ -1,0 +1,31 @@
+h2, h3{
+    margin: 0;
+}
+
+.img{
+    text-align: center;
+}
+
+
+html{
+    font-size: 20px;
+    background: url(https://cdn.chanhtuoi.com/uploads/21/08/w400/loli-la-gi-2.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+    font-family: 'Merriweather';
+    margin: 0;
+}
+.class {
+    text-align: left;
+    font-weight: 700;
+    background-color: hsla(280, 70%, 65%, 0.651);
+    line-height: 30px;
+    margin-top: 30px;
+}
+
+#main{
+    padding: 0 320px 20px;
+    line-height: 25px;
+}
